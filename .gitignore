@@ -23,3 +23,6 @@ Thumbs.db
 # Backups y otros archivos temporales
 *.bkp
 *.bak
+
+
+.flatpak-builder/
